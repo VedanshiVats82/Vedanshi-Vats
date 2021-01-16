@@ -1,0 +1,27 @@
+body{
+margin: 0;
+padding: 0;
+font-size: 1.4em;
+background:url(rain.jpg);
+background-size:cover;
+background-position:center;
+}
+.lines{
+    display:flex;
+    flex-direction: row;
+    padding:12px 20px;
+    margin-left:10px;
+}
+#image
+{
+    width="8%";
+    height="10%";
+    align="right";
+    border="8px";
+    border-color: blueviolet;
+}
+
+
+
+
+
