@@ -9,16 +9,18 @@ background-position:center;
 .lines{
     display:flex;
     flex-direction: row;
-    padding:12px 20px;
-    margin-left:10px;
+    list-style-type:none;
 }
+    li>a{
+        padding:12px 20px;
+        margin-left:20px;
+    }
 #image
 {
     width="8%";
     height="10%";
-    align="right";
-    border="8px";
-    border-color: blueviolet;
+    border="5px";
+    border-color: cyan;
 }
 
 
